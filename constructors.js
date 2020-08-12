@@ -9,6 +9,8 @@
 
 ////////// PROBLEM 1 //////////
 
+this is a test
+
 /*
   Create a constructor function called CarFactory that will build car objects with make and model properties.
   The values for the make and model will come from two parameters, make and model (in that order).
